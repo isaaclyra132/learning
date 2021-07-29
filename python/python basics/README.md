@@ -1,5 +1,5 @@
 <center>
-<div style="text-align:center"><img src="./images/logo.png" width=40%/></div>
+<div style="text-align:center"><img src="./assets/banner.jpeg" width=100%/></div>
 </center>
 
 # Curso Python Basics
