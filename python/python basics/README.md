@@ -4,7 +4,7 @@ Este curso foi oferecido pela Let's Code como uma das fases do processo seletivo
 O curso foi dividido em três partes, são elas:
 
 - ## [Basics](./Basics)
-Foi apresentado as estruturas básicas da programação em Python, tais como variáveis, estruturas condicionais, estruturas de repetição etc.
+Foi apresentado as estruturas básicas da programação em Python, tais como: variáveis, estruturas condicionais, estruturas de repetição etc.
 
 - ## [Estruturas avançadas](./Estruturas_avançadas)
 Foi discutido sobre listas, strings, dicionários, tuplas e funções.
