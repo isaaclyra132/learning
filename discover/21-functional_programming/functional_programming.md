@@ -179,3 +179,19 @@ const wait1000 = pause(1000);
 wait200(() => console.log('waiting 200ms'));
 wait1000(() => console.log('waiting 1s'));
 ```
+
+### Composição de funções
+* Um encadeamento de funções
+* Uma função que retorna um dado e vai para outra função, que retorna um dado e vai para outra função, que retorna...
+
+```jsx
+const people = ['Rafa', 'Diego', 'Dani', 'Rod']
+const upperCasePeopleThatStartsWithD = people.filter(person=>person.startsWith('D')).map(dperson=>dperson.toUpperCase())
+```
+
+## Conclusão
+
+* Paradigma de Programação
+* Linguagens
+* Conceitos fundamentais
+  * Stateless, Imutabilidade, Função pura, Higher-orders
